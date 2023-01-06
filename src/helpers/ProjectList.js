@@ -9,31 +9,37 @@ export const ProjectList = [
   {
     name: "Birthday Reminder",
     image: Proj1,
-    skill: "JavaScript, HTML, CSS"
+    skill: "JavaScript, HTML, CSS",
+    url: "https://github.com/mandarliev/birthday-reminder"
   },
   {
     name: "Tours",
     image: Proj2,
-    skill: "JavaScript, HTML, CSS"
+    skill: "JavaScript, HTML, CSS",
+    url: "https://github.com/mandarliev/Tours"
   },
   {
     name: "Reviews",
     image: Proj3,
-    skill: "JavaScript, HTML, CSS"
+    skill: "JavaScript, HTML, CSS",
+    url: "https://github.com/mandarliev/reviews"
   },
   {
     name: "Accordion",
     image: Proj4,
-    skill: "JavaScript, HTML, CSS"
+    skill: "JavaScript, HTML, CSS",
+    url: "https://github.com/mandarliev/accordion"
   },
   {
     name: "Menu",
     image: Proj5,
-    skill: "JavaScript, HTML, CSS"
+    skill: "JavaScript, HTML, CSS",
+    url: "https://github.com/mandarliev/menu"
   },
   {
     name: "Tabs",
     image: Proj6,
-    skill: "JavaScript, HTML, CSS"
+    skill: "JavaScript, HTML, CSS",
+    url: "https://github.com/mandarliev/tabs"
   },
 ];
